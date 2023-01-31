@@ -7,10 +7,10 @@ Trophy SVG: https://www.flaticon.com/free-icon/trophy_263056
 */
 
 var arr = [ 
-    { 'name': 'Neo', 'score': 5 },
-    { 'name': 'Stanley', 'score': 9 },
-    { 'name': 'Mela', 'score': 10 },
-    { 'name': 'Johnson', 'score': 4 },
+    { 'name': 'Neo', 'score': 0 },
+    { 'name': 'Stanley', 'score': 0 },
+    { 'name': 'Victor', 'score': 0 },
+    { 'name': 'Johnson', 'score': 0 },
 ]
 const ll = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
 

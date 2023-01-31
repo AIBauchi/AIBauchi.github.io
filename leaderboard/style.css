@@ -6,7 +6,7 @@
 .leaderboard header {
   --start: 15%;
   height: 130px;
-  background-image: repeating-radial-gradient(circle at var(--start), transparent 0%, transparent 10%, rgba(111, 184, 90, 0.33) 10%, rgba(211, 184, 90, 0.33) 17%), linear-gradient(to right, orange, red)
+  background-image: repeating-radial-gradient(circle at var(--start), transparent 0%, transparent 10%, rgba(111, 184, 90, 0.33) 10%, rgba(211, 184, 90, 0.33) 17%), linear-gradient(to right, orange, red);
   color: #fff;
   position: relative;
   border-radius: 12px 12px 0 0;
@@ -97,7 +97,6 @@
 
 body {
   margin: 0;
-/*   background-color: #eaeaea; */
   display: grid;
   height: 100vh;
   place-items: center;

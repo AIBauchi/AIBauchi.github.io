@@ -97,7 +97,7 @@
 
 body {
   margin: 0;
-  background-color: #eaeaea;
+/*   background-color: #eaeaea; */
   display: grid;
   height: 100vh;
   place-items: center;

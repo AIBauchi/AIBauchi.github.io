@@ -17,6 +17,7 @@ var arr = [
     { 'name': 'Gabriel', 'score': 0 },
     { 'name': 'Moha', 'score': 0 },
     { 'name': 'Goergee', 'score': 0 },
+    { 'name': 'yhuOne', 'score': 0 },
 ]
 const ll = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
 

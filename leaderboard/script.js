@@ -7,9 +7,9 @@ Trophy SVG: https://www.flaticon.com/free-icon/trophy_263056
 */
 
 var arr = [ 
-    { 'name': 'Neo', 'score': 0 },
-    { 'name': 'Stanley', 'score': 0 },
-    { 'name': 'Victor', 'score': 0 },
+    { 'name': 'Neo', 'score': 10 },
+    { 'name': 'Stanley', 'score': 10 },
+    { 'name': 'Victor', 'score': 10 },
     { 'name': 'Teejay', 'score': 20 },
     { 'name': 'Abdul', 'score': 18 },
     { 'name': 'Oladepo', 'score': 0 },
@@ -18,7 +18,7 @@ var arr = [
     { 'name': 'Moha', 'score': 12 },
     { 'name': 'Goergee', 'score': 15},
     { 'name': 'yhuOne', 'score':11 },
-    { 'name': 'Daniel Viko', 'score': 0 },
+    { 'name': 'Daniel', 'score': 0 },
     { 'name': 'Techyislam', 'score': 0 },
     { 'name': 'Fadlu', 'score': 10 },
 

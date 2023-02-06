@@ -16,7 +16,7 @@ var arr = [
     { 'name': 'Abdulganiyu', 'score': 0 },
     { 'name': 'Gabriel', 'score': 0 },
     { 'name': 'Moha', 'score': 0 },
-    { 'name': 'Goergee', 'score': 0 },
+    { 'name': 'Goergee', 'score': 15},
     { 'name': 'yhuOne', 'score': 0 },
     { 'name': 'Daniel Viko', 'score': 0 },
     { 'name': 'Techyislam', 'score': 0 },

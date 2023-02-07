@@ -8,7 +8,7 @@ Trophy SVG: https://www.flaticon.com/free-icon/trophy_263056
 
 var arr = [ 
     { 'name': 'Neo', 'score': 10 , 'pix': '01.jpg'},
-    { 'name': 'Stanley', 'score': 30,'pix': '05.jpg' },
+    { 'name': 'Stanley', 'score': 28,'pix': '05.jpg' },
     { 'name': 'Victor', 'score': 10 ,'pix': '02.jpg'},
     { 'name': 'Teejay', 'score': 36 ,'pix': '04.jpg'},
     { 'name': 'Abdul', 'score': 18 ,'pix': '06.jpg'},

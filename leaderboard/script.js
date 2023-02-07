@@ -31,7 +31,7 @@ var sor = arr.sort(function(a,b) {
 
 for (var i in arr) {
 	document.getElementById('results').innerHTML +=`<article class="leaderboard__profile">
-      <img src="/avatar/`+ arr[i]['pix'] +`" alt=" " class="leaderboard__picture">
+      <img src="/leaderboard/avatar/`+ arr[i]['pix'] +`" alt=" " class="leaderboard__picture">
       <span class="leaderboard__name">`+ arr[i]['name'] +`</span>
       <span class="leaderboard__value">`+ arr[i]['score'] +`<span>`+ ll[i] +`</span></span>
     </article>`

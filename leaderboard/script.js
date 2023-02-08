@@ -11,16 +11,16 @@ var arr = [
     { 'name': 'Stanley', 'score': 28,'pix': '05.jpg' },
     { 'name': 'Victor', 'score': 10 ,'pix': '02.jpg'},
     { 'name': 'Teejay', 'score': 36 ,'pix': '04.jpg'},
-    { 'name': 'Abdul', 'score': 18 ,'pix': '06.jpg'},
+    { 'name': 'Abdul', 'score': 29 ,'pix': '06.jpg'},
     { 'name': 'Oladepo', 'score': 0 ,'pix': 'def.jpg'},
     { 'name': 'Abdulganiyu', 'score': 10 ,'pix': '09.jpg'},
     { 'name': 'Gabriel', 'score': 0 ,'pix': 'def.jpg'},
-    { 'name': 'Moha', 'score': 12 ,'pix': '07.jpg'},
+    { 'name': 'Moha', 'score': 22 ,'pix': '07.jpg'},
     { 'name': 'Goergee', 'score': 26 ,'pix': '09.jpg'},
     { 'name': 'yhuOne', 'score':11 ,'pix': '09.jpg'},
     { 'name': 'Daniel', 'score': 0,'pix': 'def.jpg' },
     { 'name': 'Techyislam', 'score': 0 ,'pix': 'def.jpg'},
-    { 'name': 'Fadlu', 'score': 10 ,'pix': '08.jpg'},
+    { 'name': 'Fadlu', 'score': 20 ,'pix': '08.jpg'},
 
 ]
 const ll = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];

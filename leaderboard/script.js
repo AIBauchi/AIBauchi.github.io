@@ -8,15 +8,15 @@ Trophy SVG: https://www.flaticon.com/free-icon/trophy_263056
 
 var arr = [ 
     { 'name': 'Neo', 'score': 25 , 'pix': '01.jpg'},
-    { 'name': 'Stanley', 'score': 28,'pix': '05.jpg' },
+    { 'name': 'Stanley', 'score': 50,'pix': '05.jpg' },
     { 'name': 'Victor', 'score': 10 ,'pix': '02.jpg'},
-    { 'name': 'Teejay', 'score': 36 ,'pix': '04.jpg'},
+    { 'name': 'Teejay', 'score': 54 ,'pix': '04.jpg'},
     { 'name': 'Abdul', 'score': 29 ,'pix': '06.jpg'},
     { 'name': 'Oladepo', 'score': 0 ,'pix': 'def.jpg'},
     { 'name': 'Abdulganiyu', 'score': 10 ,'pix': '09.jpg'},
     { 'name': 'Gabriel', 'score': 0 ,'pix': 'def.jpg'},
     { 'name': 'Moha', 'score': 22 ,'pix': '07.jpg'},
-    { 'name': 'Goergee', 'score': 26 ,'pix': '09.jpg'},
+    { 'name': 'Goergee', 'score': 41 ,'pix': '09.jpg'},
     { 'name': 'yhuOne', 'score':21 ,'pix': '09.jpg'},
     { 'name': 'Daniel', 'score': 0,'pix': 'def.jpg' },
     { 'name': 'Techyislam', 'score': 0 ,'pix': 'def.jpg'},

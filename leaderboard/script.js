@@ -10,7 +10,7 @@ var arr = [
     { 'name': 'Neo', 'score': 51 , 'pix': '01.jpg'},
     { 'name': 'Stanley', 'score': 70,'pix': '05.jpg' },
     { 'name': 'Victor', 'score': 10 ,'pix': '02.jpg'},
-    { 'name': 'Teejay', 'score': 54 ,'pix': '04.jpg'},
+    { 'name': 'Teejay', 'score': 66 ,'pix': '04.jpg'},
     { 'name': 'Abdul', 'score': 39 ,'pix': '06.jpg'},
     { 'name': 'Oladepo', 'score': 0 ,'pix': 'def.jpg'},
     { 'name': 'Abdulganiyu', 'score': 24 ,'pix': '09.jpg'},

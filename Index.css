@@ -1,0 +1,102 @@
+* {
+  margin: 0px;
+}
+.body {
+  background-image: url("slider/background.JPG");
+  height: 650px;
+}
+h1 {
+  background-color: white;
+  font-size: 40px;
+  font-weight: bolder;
+  color: red;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+p {
+  color: white;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px red;
+}
+.parent {
+  /*background-color: whitesmoke;*/
+  position: absolute;
+  width: 1360px;
+  height: 600px;
+  z-index: 99;
+  opacity: 0.8;
+}
+.carousel {
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  z-index: 99999;
+  margin: 2px solid red;
+  top: 35%;
+  left: 35%;
+}
+.carousel img {
+  display: none;
+}
+.carousel img.active {
+  display: block;
+}
+.input {
+  width: 50%;
+  height: 400px;
+  margin: 2px solid red;
+  background-color: white;
+  position: relative;
+  z-index: 99999;
+  left: 25%;
+  top: 15%;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+/*.output {
+  width: 400px;
+  height: 400px;
+  margin: 2px solid red;
+  background-color: white;
+  position: absolute;
+  z-index: 99999;
+  right: 0px;
+  top: 25%;
+  margin-right: 10px;
+  border-radius: 10px;
+}*/
+#upload {
+  display: inline-block;
+  position: absolute;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(82, 78, 78);
+  bottom: 50%;
+  margin-left: 40px;
+  z-index: 999999;
+  color: red;
+  left: 33%;
+}
+
+#view {
+  display: inline-block;
+  position: absolute;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(82, 78, 78);
+  bottom: 50%;
+  right: 0%;
+  margin-right: 40px;
+  z-index: 999999;
+}
+#generate {
+  display: inline-block;
+  position: absolute;
+  font-size: 40px;
+  font-weight: bolder;
+  color: rgb(82, 78, 78);
+  bottom: 50%;
+  margin-left: 40px;
+  z-index: 999999;
+  color: red;
+}
